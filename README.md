@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @LShiftt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @LShiftt / Dubois Mathis
+- 👀 I’m interested in web back-end
+- 🌱 I’m currently learning CSS Nesting
+- 💞️ I’m looking to collaborate on a sales house with Web Sockets.
 - 📫 My portfolio : https://mdubois.alwaysdata.net/portfolio/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-LShiftt/LShiftt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: This profile picture came from Noodle (https://www.youtube.com/@noodlefunny), i'm a big fan of this guy
